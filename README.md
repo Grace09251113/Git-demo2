@@ -1,0 +1,3 @@
+将一个新的git目录push到Git-demo远程仓库时，老是push失败，尽管已经pull了最新的内容下来也不行
+于是，重建了全新的Git-demo2远程仓库，直接就push成功了
+所以，1-到底是为什么不能push到旧远程仓库呢？2-将旧远程仓库的内容pull下来，pull到哪儿了，hello.txt文件没看见
